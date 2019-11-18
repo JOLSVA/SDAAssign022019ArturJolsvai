@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorOpenCamera">#E64A19</color>
+    <color name="colorViewPicture">#8E24AA</color>
+    <color name="colorCallAnActivity">#43A047</color>
+    <color name="colorBlankField">#D81B60</color>
+    <color name="colorSend">#4FC3F7</color>
+</resources>

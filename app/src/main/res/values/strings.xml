@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SDA Assign02-2019_ArturJolsvai</string>
+    <string name="textView4"></string>
+    <string name="button">SEND</string>
+    <string name="button2">Implicit Intent: Open Camera</string>
+    <string name="button3">Implicit Intent: View Picture</string>
+    <string name="button4">Explicit Intent: Call an activity</string>
+    <string name="editText1_callanactivity">To:</string>
+    <string name="editText2_callanactivity">Subject:</string>
+    <string name="editText3_callanactivity">Compose:</string>
+    <string name="button_callanactivity">SAVE</string>
+</resources>
